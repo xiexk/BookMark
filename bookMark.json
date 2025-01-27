@@ -6213,10 +6213,18 @@
                         "url": "https://pan.baidu.com/disk/main?from=homeFlow#/index?category=all"
                     },
                     {
+                        "dateAdded": 1737942809151,
+                        "id": "33997",
+                        "index": 1,
+                        "parentId": "32999",
+                        "title": "DeepSeek - 探索未至之境",
+                        "url": "https://chat.deepseek.com/"
+                    },
+                    {
                         "dateAdded": 1737805879155,
                         "dateLastUsed": 1737852764084,
                         "id": "33127",
-                        "index": 1,
+                        "index": 2,
                         "parentId": "32999",
                         "title": "通义千问",
                         "url": "https://tongyi.aliyun.com/qianwen/?spm=5176.28326591.0.0.40f76ee1yi3l5Q"
@@ -6224,7 +6232,7 @@
                     {
                         "dateAdded": 1737805879155,
                         "id": "33128",
-                        "index": 2,
+                        "index": 3,
                         "parentId": "32999",
                         "title": "文心一言",
                         "url": "https://yiyan.baidu.com/"
@@ -6233,7 +6241,7 @@
                         "dateAdded": 1737805879155,
                         "dateLastUsed": 1737857199134,
                         "id": "33129",
-                        "index": 3,
+                        "index": 4,
                         "parentId": "32999",
                         "title": "百度脑图－便捷的思维工具",
                         "url": "https://naotu.baidu.com/home"
@@ -6241,7 +6249,7 @@
                     {
                         "dateAdded": 1737805879155,
                         "id": "33130",
-                        "index": 4,
+                        "index": 5,
                         "parentId": "32999",
                         "title": "Testinapp测试",
                         "url": "http://www.testin.cn/site/login?re=%2Fapp-manage%2Findex"
@@ -6249,7 +6257,7 @@
                     {
                         "dateAdded": 1737805879155,
                         "id": "33131",
-                        "index": 5,
+                        "index": 6,
                         "parentId": "32999",
                         "title": "云效 Codeup · 企业级代码管理平台",
                         "url": "https://codeup.aliyun.com/?spm=a2111a.8458726.0.0.6c6c3531KN8qDg&channel=aliyun_code_trial"
@@ -6257,7 +6265,7 @@
                     {
                         "dateAdded": 1737805879155,
                         "id": "33132",
-                        "index": 6,
+                        "index": 7,
                         "parentId": "32999",
                         "title": "Maven Repository: Search/Browse/Explore",
                         "url": "http://mvnrepository.com/"
@@ -6265,7 +6273,7 @@
                     {
                         "dateAdded": 1737805879155,
                         "id": "33133",
-                        "index": 7,
+                        "index": 8,
                         "parentId": "32999",
                         "title": "Udacity",
                         "url": "https://auth.udacity.com/sign-in?next=&status=400"
@@ -6273,7 +6281,7 @@
                     {
                         "dateAdded": 1737805879156,
                         "id": "33134",
-                        "index": 8,
+                        "index": 9,
                         "parentId": "32999",
                         "title": "taobao - Taocode",
                         "url": "http://code.taobao.org/my/"
@@ -6281,7 +6289,7 @@
                     {
                         "dateAdded": 1737805879156,
                         "id": "33135",
-                        "index": 9,
+                        "index": 10,
                         "parentId": "32999",
                         "title": "Iconfont-阿里巴巴矢量图标库",
                         "url": "http://www.iconfont.cn/collections/index?spm=a313x.7781069.1998910419.da2e3581b&type=1&page=3"
@@ -6289,7 +6297,7 @@
                     {
                         "dateAdded": 1737805879156,
                         "id": "33136",
-                        "index": 10,
+                        "index": 11,
                         "parentId": "32999",
                         "title": "全国互联网安全管理服务平台",
                         "url": "http://www.beian.gov.cn/apply/subject?token=54224cad-cd97-43c7-a800-ac932ca45f50"
@@ -6297,7 +6305,7 @@
                     {
                         "dateAdded": 1737805879156,
                         "id": "33137",
-                        "index": 11,
+                        "index": 12,
                         "parentId": "32999",
                         "title": "Android 开发者  |  Android Developers",
                         "url": "https://developer.android.google.cn/about"
@@ -6305,7 +6313,7 @@
                     {
                         "dateAdded": 1737805879156,
                         "id": "33138",
-                        "index": 12,
+                        "index": 13,
                         "parentId": "32999",
                         "title": "GitHub",
                         "url": "https://github.com/"
@@ -6313,7 +6321,7 @@
                     {
                         "dateAdded": 1737805879156,
                         "id": "33139",
-                        "index": 13,
+                        "index": 14,
                         "parentId": "32999",
                         "title": "谢纯帅 谢纯帅 - ws1349010832 is using Bintray",
                         "url": "https://bintray.com/ws1349010832"
@@ -6321,7 +6329,7 @@
                     {
                         "dateAdded": 1737805879156,
                         "id": "33140",
-                        "index": 14,
+                        "index": 15,
                         "parentId": "32999",
                         "title": "Gradle Distributions",
                         "url": "https://services.gradle.org/distributions/"
@@ -6329,7 +6337,7 @@
                     {
                         "dateAdded": 1737805879156,
                         "id": "33141",
-                        "index": 15,
+                        "index": 16,
                         "parentId": "32999",
                         "title": "678辅助网_最大免费游戏辅助网_热门辅助资源网_我爱辅助网",
                         "url": "https://www.678cn.com/"
@@ -6337,7 +6345,7 @@
                     {
                         "dateAdded": 1737805879156,
                         "id": "33142",
-                        "index": 16,
+                        "index": 17,
                         "parentId": "32999",
                         "title": "贝贝外挂 - 贝贝外挂网,国内最大的游戏外挂门户网站",
                         "url": "https://www.xixiwg.com/beibei.html"
@@ -6345,7 +6353,7 @@
                     {
                         "dateAdded": 1737805879156,
                         "id": "33143",
-                        "index": 17,
+                        "index": 18,
                         "parentId": "32999",
                         "title": "亿破姐 | 给你所需要的内容YPOJIE.COM！",
                         "url": "https://www.ypojie.com/"
@@ -6353,7 +6361,7 @@
                     {
                         "dateAdded": 1737805879156,
                         "id": "33144",
-                        "index": 18,
+                        "index": 19,
                         "parentId": "32999",
                         "title": "吾爱破解 - LCG - LSG|安卓破解|病毒分析|www.52pojie.cn",
                         "url": "https://www.52pojie.cn/"
@@ -6412,14 +6420,14 @@
                         "dateAdded": 1737805879156,
                         "dateGroupModified": 1737805879219,
                         "id": "33145",
-                        "index": 19,
+                        "index": 20,
                         "parentId": "32999",
                         "title": "接码平台"
                     },
                     {
                         "dateAdded": 1737805879156,
                         "id": "33146",
-                        "index": 20,
+                        "index": 21,
                         "parentId": "32999",
                         "title": "充值 - 联众2.0 极速图像识别",
                         "url": "https://account.jsdati.com/charge-accredit"
@@ -6427,7 +6435,7 @@
                     {
                         "dateAdded": 1737805879156,
                         "id": "33147",
-                        "index": 21,
+                        "index": 22,
                         "parentId": "32999",
                         "title": "TG",
                         "url": "https://m2.tg6000.net/indexCenter.php"
@@ -6435,7 +6443,7 @@
                     {
                         "dateAdded": 1737805879156,
                         "id": "33148",
-                        "index": 22,
+                        "index": 23,
                         "parentId": "32999",
                         "title": "文字识别OCR",
                         "url": "https://cloud.baidu.com/doc/OCR/s/0ki4d4wf3"
@@ -6443,7 +6451,7 @@
                     {
                         "dateAdded": 1737805879156,
                         "id": "33149",
-                        "index": 23,
+                        "index": 24,
                         "parentId": "32999",
                         "title": "我的工作台 - Gitee.com",
                         "url": "https://gitee.com/"
@@ -6451,7 +6459,7 @@
                     {
                         "dateAdded": 1737805879156,
                         "id": "33150",
-                        "index": 24,
+                        "index": 25,
                         "parentId": "32999",
                         "title": "Android 开发者  |  Android Developers",
                         "url": "https://developer.android.google.cn/index.html"
@@ -6459,7 +6467,7 @@
                     {
                         "dateAdded": 1737805879156,
                         "id": "33151",
-                        "index": 25,
+                        "index": 26,
                         "parentId": "32999",
                         "title": "开源专区 - OSCHINA - 中文开源技术交流社区",
                         "url": "https://www.oschina.net/groups"
@@ -6467,7 +6475,7 @@
                     {
                         "dateAdded": 1737805879157,
                         "id": "33152",
-                        "index": 26,
+                        "index": 27,
                         "parentId": "32999",
                         "title": "MSDN, win系统下载我告诉你 - 做一个安静的工具站",
                         "url": "https://msdn.itellyou.cn/"
@@ -6475,7 +6483,7 @@
                     {
                         "dateAdded": 1737805879157,
                         "id": "33153",
-                        "index": 27,
+                        "index": 28,
                         "parentId": "32999",
                         "title": "Get Kali | Kali Linux",
                         "url": "https://www.kali.org/get-kali/#kali-platforms"
@@ -6483,7 +6491,7 @@
                     {
                         "dateAdded": 1737805879157,
                         "id": "33154",
-                        "index": 28,
+                        "index": 29,
                         "parentId": "32999",
                         "title": "Download Metasploitable from SourceForge.net",
                         "url": "https://sourceforge.net/projects/metasploitable/files/latest/download"
@@ -6491,7 +6499,7 @@
                     {
                         "dateAdded": 1737805879157,
                         "id": "33155",
-                        "index": 29,
+                        "index": 30,
                         "parentId": "32999",
                         "title": "hutool",
                         "url": "https://www.hutool.cn/docs/#/"
@@ -6499,7 +6507,7 @@
                     {
                         "dateAdded": 1737805879157,
                         "id": "33156",
-                        "index": 30,
+                        "index": 31,
                         "parentId": "32999",
                         "title": "一元机场",
                         "url": "https://xn--4gq62f52gdss.com/#/knowledge"
@@ -6507,7 +6515,7 @@
                     {
                         "dateAdded": 1737805879157,
                         "id": "33157",
-                        "index": 31,
+                        "index": 32,
                         "parentId": "32999",
                         "title": "Download Build tools for Android SDK Manager",
                         "url": "https://androidsdkmanager.azurewebsites.net/Buildtools"
@@ -6515,7 +6523,7 @@
                     {
                         "dateAdded": 1737805879157,
                         "id": "33158",
-                        "index": 32,
+                        "index": 33,
                         "parentId": "32999",
                         "title": "android 平台",
                         "url": "https://developer.android.google.cn/jetpack/androidx/releases/appcompat"
@@ -6523,7 +6531,7 @@
                     {
                         "dateAdded": 1737805879157,
                         "id": "33159",
-                        "index": 33,
+                        "index": 34,
                         "parentId": "32999",
                         "title": "全球高清实况摄像头！ - SkylineWebcams",
                         "url": "https://www.skylinewebcams.com/"
@@ -6531,7 +6539,7 @@
                     {
                         "dateAdded": 1737805879157,
                         "id": "33160",
-                        "index": 34,
+                        "index": 35,
                         "parentId": "32999",
                         "title": "异常概览-美居CRM-Bugly",
                         "url": "https://bugly.qq.com/v2/crash-reporting/dashboard/4f130eee23?pid=1"
@@ -6539,7 +6547,7 @@
                     {
                         "dateAdded": 1737805879157,
                         "id": "33161",
-                        "index": 35,
+                        "index": 36,
                         "parentId": "32999",
                         "title": "模板王 - 10000+免费网页模板，网站模板下载大全",
                         "url": "http://www.mobanwang.com/"
@@ -6547,7 +6555,7 @@
                     {
                         "dateAdded": 1737805879157,
                         "id": "33162",
-                        "index": 36,
+                        "index": 37,
                         "parentId": "32999",
                         "title": "服务空间 - uniCloud",
                         "url": "https://unicloud.dcloud.net.cn/"
@@ -6555,7 +6563,7 @@
                     {
                         "dateAdded": 1737805879157,
                         "id": "33163",
-                        "index": 37,
+                        "index": 38,
                         "parentId": "32999",
                         "title": "推特",
                         "url": "https://twitter.com/home"
@@ -6563,7 +6571,7 @@
                     {
                         "dateAdded": 1737805879157,
                         "id": "33164",
-                        "index": 38,
+                        "index": 39,
                         "parentId": "32999",
                         "title": "Facebook",
                         "url": "https://www.facebook.com/watch/?ref=tab"
@@ -6571,7 +6579,7 @@
                     {
                         "dateAdded": 1737805879157,
                         "id": "33165",
-                        "index": 39,
+                        "index": 40,
                         "parentId": "32999",
                         "title": "Pixso",
                         "url": "https://pixso.cn/app/recent"
@@ -6579,7 +6587,7 @@
                     {
                         "dateAdded": 1737805879157,
                         "id": "33166",
-                        "index": 40,
+                        "index": 41,
                         "parentId": "32999",
                         "title": "Install Guide | Apktool",
                         "url": "https://apktool.org/docs/install/"
@@ -6587,7 +6595,7 @@
                     {
                         "dateAdded": 1737805879157,
                         "id": "33167",
-                        "index": 41,
+                        "index": 42,
                         "parentId": "32999",
                         "title": "OSCHINA - 中文开源技术交流社区",
                         "url": "https://www.oschina.net/"
@@ -6595,7 +6603,7 @@
                     {
                         "dateAdded": 1737805879157,
                         "id": "33168",
-                        "index": 42,
+                        "index": 43,
                         "parentId": "32999",
                         "title": "部署 | datart",
                         "url": "https://running-elephant.gitee.io/datart-docs/docs/index.html"
@@ -6603,7 +6611,7 @@
                     {
                         "dateAdded": 1737805879157,
                         "id": "33169",
-                        "index": 43,
+                        "index": 44,
                         "parentId": "32999",
                         "title": "datart-自定义图表 demo",
                         "url": "https://github.com/running-elephant/datart-extension-charts"
@@ -6611,7 +6619,7 @@
                     {
                         "dateAdded": 1737805879158,
                         "id": "33170",
-                        "index": 44,
+                        "index": 45,
                         "parentId": "32999",
                         "title": "阿里云数据可视化平台-地图数据",
                         "url": "https://datav.aliyun.com/portal/school/atlas/area_selector"
@@ -6619,7 +6627,7 @@
                     {
                         "dateAdded": 1737805879158,
                         "id": "33171",
-                        "index": 45,
+                        "index": 46,
                         "parentId": "32999",
                         "title": "中国计算机技术职业资格网",
                         "url": "https://www.ruankao.org.cn/"
@@ -6627,7 +6635,7 @@
                     {
                         "dateAdded": 1737805879158,
                         "id": "33172",
-                        "index": 46,
+                        "index": 47,
                         "parentId": "32999",
                         "title": "中国保险行业协会 新闻中心",
                         "url": "https://www.iachina.cn/col/col3/"
@@ -6635,7 +6643,7 @@
                     {
                         "dateAdded": 1737805879158,
                         "id": "33173",
-                        "index": 47,
+                        "index": 48,
                         "parentId": "32999",
                         "title": "React Native 中文网 · 使用React来编写原生应用的框架",
                         "url": "https://www.reactnative.cn/"
@@ -6643,7 +6651,7 @@
                     {
                         "dateAdded": 1737805879158,
                         "id": "33174",
-                        "index": 48,
+                        "index": 49,
                         "parentId": "32999",
                         "title": "软件设计师-中级-2024年软考- 精品班 - 51CTO学堂 - IT人充电，上51CTO学堂！",
                         "url": "https://e.51cto.com/wejob/list?pid=4&cid=120&download=1&tid=89"
@@ -6651,7 +6659,7 @@
                     {
                         "dateAdded": 1737805879158,
                         "id": "33175",
-                        "index": 49,
+                        "index": 50,
                         "parentId": "32999",
                         "title": "yudao-ui-admin-vue3: 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。",
                         "url": "https://gitee.com/yudaocode/yudao-ui-admin-vue3"
@@ -6659,7 +6667,7 @@
                     {
                         "dateAdded": 1737805879158,
                         "id": "33176",
-                        "index": 50,
+                        "index": 51,
                         "parentId": "32999",
                         "title": "Crabc 低代码",
                         "url": "https://www.crabc.cn/"
@@ -6667,22 +6675,14 @@
                     {
                         "dateAdded": 1737805879158,
                         "id": "33177",
-                        "index": 51,
+                        "index": 52,
                         "parentId": "32999",
                         "title": "Apache Doris: Open source data warehouse for real time data analytics - Apache Doris",
                         "url": "https://doris.apache.org/zh-CN"
-                    },
-                    {
-                        "dateAdded": 1737942809151,
-                        "id": "33997",
-                        "index": 52,
-                        "parentId": "32999",
-                        "title": "DeepSeek - 探索未至之境",
-                        "url": "https://chat.deepseek.com/"
                     }
                 ],
                 "dateAdded": 1737805879147,
-                "dateGroupModified": 1737942819636,
+                "dateGroupModified": 1737943906036,
                 "id": "32999",
                 "index": 8,
                 "parentId": "1",
