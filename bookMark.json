@@ -11,7 +11,7 @@
             },
             {
                 "dateAdded": 1737805879147,
-                "dateLastUsed": 1737862148534,
+                "dateLastUsed": 1737941280161,
                 "id": "32992",
                 "index": 1,
                 "parentId": "1",
@@ -1132,7 +1132,7 @@
                                     }
                                 ],
                                 "dateAdded": 1737805879173,
-                                "dateGroupModified": 1737872979945,
+                                "dateGroupModified": 1737942809151,
                                 "id": "33407",
                                 "index": 0,
                                 "parentId": "33029",
@@ -1312,6 +1312,7 @@
                             },
                             {
                                 "dateAdded": 1737805879174,
+                                "dateLastUsed": 1737873380512,
                                 "id": "33425",
                                 "index": 18,
                                 "parentId": "33029",
@@ -6670,10 +6671,18 @@
                         "parentId": "32999",
                         "title": "Apache Doris: Open source data warehouse for real time data analytics - Apache Doris",
                         "url": "https://doris.apache.org/zh-CN"
+                    },
+                    {
+                        "dateAdded": 1737942809151,
+                        "id": "33997",
+                        "index": 52,
+                        "parentId": "32999",
+                        "title": "DeepSeek - 探索未至之境",
+                        "url": "https://chat.deepseek.com/"
                     }
                 ],
                 "dateAdded": 1737805879147,
-                "dateGroupModified": 1737805879158,
+                "dateGroupModified": 1737942819636,
                 "id": "32999",
                 "index": 8,
                 "parentId": "1",
