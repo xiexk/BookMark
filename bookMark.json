@@ -3,6 +3,7 @@
         "children": [
             {
                 "dateAdded": 1739323849177,
+                "dateLastUsed": 1741337650437,
                 "id": "36013",
                 "index": 0,
                 "parentId": "1",
@@ -11,7 +12,7 @@
             },
             {
                 "dateAdded": 1739323849178,
-                "dateLastUsed": 1740538319573,
+                "dateLastUsed": 1741660347530,
                 "id": "36014",
                 "index": 1,
                 "parentId": "1",
@@ -1026,7 +1027,7 @@
                                     },
                                     {
                                         "dateAdded": 1739323849304,
-                                        "dateLastUsed": 1740537529012,
+                                        "dateLastUsed": 1741054747449,
                                         "id": "37001",
                                         "index": 1,
                                         "parentId": "36430",
@@ -1115,6 +1116,7 @@
                                     },
                                     {
                                         "dateAdded": 1739323849305,
+                                        "dateLastUsed": 1741586101058,
                                         "id": "37012",
                                         "index": 12,
                                         "parentId": "36430",
@@ -1123,6 +1125,7 @@
                                     },
                                     {
                                         "dateAdded": 1739323849305,
+                                        "dateLastUsed": 1740724662942,
                                         "id": "37013",
                                         "index": 13,
                                         "parentId": "36430",
@@ -1173,6 +1176,7 @@
                                     },
                                     {
                                         "dateAdded": 1739323849305,
+                                        "dateLastUsed": 1741578175922,
                                         "id": "37016",
                                         "index": 1,
                                         "parentId": "36431",
@@ -1189,6 +1193,7 @@
                                     },
                                     {
                                         "dateAdded": 1739323849306,
+                                        "dateLastUsed": 1741342658790,
                                         "id": "37018",
                                         "index": 3,
                                         "parentId": "36431",
@@ -1197,15 +1202,33 @@
                                     },
                                     {
                                         "dateAdded": 1740628768364,
+                                        "dateLastUsed": 1740988777652,
                                         "id": "37023",
                                         "index": 4,
                                         "parentId": "36431",
                                         "title": "yarn",
                                         "url": "http://hadoop2:8088/cluster?user.name=n1epuVdU"
+                                    },
+                                    {
+                                        "dateAdded": 1740649407824,
+                                        "dateLastUsed": 1741574386034,
+                                        "id": "37024",
+                                        "index": 5,
+                                        "parentId": "36431",
+                                        "title": "Apache Doris",
+                                        "url": "http://10.1.20.24:8030/Playground"
+                                    },
+                                    {
+                                        "dateAdded": 1740962494139,
+                                        "id": "37026",
+                                        "index": 6,
+                                        "parentId": "36431",
+                                        "title": "薪酬分摊折标需求表设计",
+                                        "url": "https://doc.weixin.qq.com/smartsheet/s3_AcAAxgYLAOcqIrro5IfRfGv3jc3xF?scode=AAEApQf5AA85S5Uji6AXQAIQbgAFc&tab=tmFf41&viewId=vD8CUa"
                                     }
                                 ],
                                 "dateAdded": 1739323849244,
-                                "dateGroupModified": 1740628782606,
+                                "dateGroupModified": 1741683293676,
                                 "id": "36431",
                                 "index": 1,
                                 "parentId": "36051",
@@ -1221,6 +1244,7 @@
                             },
                             {
                                 "dateAdded": 1739323849244,
+                                "dateLastUsed": 1741572573571,
                                 "id": "36433",
                                 "index": 3,
                                 "parentId": "36051",
@@ -1261,6 +1285,7 @@
                             },
                             {
                                 "dateAdded": 1739323849245,
+                                "dateLastUsed": 1741568246757,
                                 "id": "36438",
                                 "index": 8,
                                 "parentId": "36051",
@@ -1269,7 +1294,7 @@
                             },
                             {
                                 "dateAdded": 1739323849245,
-                                "dateLastUsed": 1740556389770,
+                                "dateLastUsed": 1741328731638,
                                 "id": "36439",
                                 "index": 9,
                                 "parentId": "36051",
@@ -1286,6 +1311,7 @@
                             },
                             {
                                 "dateAdded": 1739323849245,
+                                "dateLastUsed": 1741138656921,
                                 "id": "36441",
                                 "index": 11,
                                 "parentId": "36051",
@@ -1294,6 +1320,7 @@
                             },
                             {
                                 "dateAdded": 1739323849245,
+                                "dateLastUsed": 1740636678547,
                                 "id": "36442",
                                 "index": 12,
                                 "parentId": "36051",
@@ -6235,7 +6262,7 @@
                 "children": [
                     {
                         "dateAdded": 1739323849212,
-                        "dateLastUsed": 1740623652859,
+                        "dateLastUsed": 1741660182349,
                         "id": "36148",
                         "index": 0,
                         "parentId": "36021",
@@ -6252,6 +6279,7 @@
                     },
                     {
                         "dateAdded": 1739323849212,
+                        "dateLastUsed": 1741569930566,
                         "id": "36150",
                         "index": 2,
                         "parentId": "36021",
@@ -6268,7 +6296,7 @@
                     },
                     {
                         "dateAdded": 1739323849212,
-                        "dateLastUsed": 1740530947130,
+                        "dateLastUsed": 1741573079838,
                         "id": "36152",
                         "index": 4,
                         "parentId": "36021",
@@ -6655,6 +6683,7 @@
                     },
                     {
                         "dateAdded": 1739323849216,
+                        "dateLastUsed": 1741568833816,
                         "id": "36194",
                         "index": 46,
                         "parentId": "36021",
@@ -6679,6 +6708,7 @@
                     },
                     {
                         "dateAdded": 1739323849217,
+                        "dateLastUsed": 1741334116145,
                         "id": "36197",
                         "index": 49,
                         "parentId": "36021",
@@ -6703,6 +6733,7 @@
                     },
                     {
                         "dateAdded": 1739323849217,
+                        "dateLastUsed": 1741572728332,
                         "id": "36200",
                         "index": 52,
                         "parentId": "36021",
@@ -7298,10 +7329,18 @@
                         "parentId": "36026",
                         "title": "电脑工具箱",
                         "url": "https://ssdjjs.lanzoui.com/b0epm2b6b"
+                    },
+                    {
+                        "dateAdded": 1741683293676,
+                        "id": "37028",
+                        "index": 22,
+                        "parentId": "36026",
+                        "title": "GitHub - 564386882/IDEA-2022.1.3unlock: IDEA 2022.1.3以及收费插件破解方法",
+                        "url": "https://github.com/564386882/IDEA-2022.1.3unlock"
                     }
                 ],
                 "dateAdded": 1739323849178,
-                "dateGroupModified": 1739323849221,
+                "dateGroupModified": 1741683303815,
                 "id": "36026",
                 "index": 13,
                 "parentId": "1",
